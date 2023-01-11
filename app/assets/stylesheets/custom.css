@@ -1,0 +1,7 @@
+h1 {
+  color: red;
+}
+.bg{
+  height: calc(100vh - 58px);
+  width: 100%;
+}
